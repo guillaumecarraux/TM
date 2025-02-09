@@ -2,6 +2,8 @@
 
 This project implements a Rubik's Cube simulator and an automated solver using computational group theory principles. It was originally developed as part of a matura thesis and explores how programming can be used to analyze and manipulate cube states.
 
+Mathematics based on [Permutation Puzzles: A Mathematical Perspective](https://www.goodreads.com/book/show/52591432-permutation-puzzles-a-mathematical-perspective).
+
 ## Features
 
 - 3D Cube Simulation: Interactive visualization of a Rubik’s Cube.
