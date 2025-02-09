@@ -20,3 +20,5 @@ This project implements a Rubik's Cube simulator and an automated solver using c
 Contributions
 
 Originally developed for my Matura work as a mathematical exploration of the Rubik’s Cube.
+
+![image](https://github.com/user-attachments/assets/f1f26a7b-bac5-4d5a-b7c6-ddafebbe9330)
