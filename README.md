@@ -4,18 +4,18 @@ This project implements a Rubik's Cube simulator and an automated solver using c
 
 ## Features
 
-    3D Cube Simulation: Interactive visualization of a Rubik’s Cube.
-    Keyboard Controls: Moves follow Singmaster notation (e.g., U, R, F').
-    Automatic Solver: Implements the CFOP solving method.
-    State Analysis: Tracks cube permutations and orientations programmatically.
+- 3D Cube Simulation: Interactive visualization of a Rubik’s Cube.
+- Keyboard Controls: Moves follow Singmaster notation (e.g., U, R, F').
+- Automatic Solver: Implements the CFOP solving method.
+- State Analysis: Tracks cube permutations and orientations programmatically.
 
 
 ## Usage
 
-    Open cube.html in a browser.
-    Use keyboard shortcuts to rotate cube faces.
-    Click "Shuffle" for a random scramble.
-    Click "Solve" to return to the solved state.
+- Open cube.html in a browser.
+- Use keyboard shortcuts to rotate cube faces.
+- Click "Shuffle" for a random scramble.
+- Click "Solve" to return to the solved state.
 
 Contributions
 
